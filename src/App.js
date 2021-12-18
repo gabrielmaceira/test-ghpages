@@ -17,7 +17,9 @@ function App() {
         >
           Learn React
         </a>
-        <img src="logo512.png" alt="hola" />
+        <p>pre testing</p>
+        <img src="/img/zoltan.png" alt="hola" />
+        <p>testing</p>
       </header>
     </div>
   );
